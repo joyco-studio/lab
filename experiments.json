@@ -1,4 +1,17 @@
 {
   "$schema": "./schema.json",
-  "experiments": []
+  "experiments": [
+    {
+      "title": "Dot Interactive",
+      "description": "Interactive background for Joyco Landing page.",
+      "href": "https://laboratory-dot-interactive.vercel.app/",
+      "tags": [
+        "background",
+        "mesh",
+        "dot"
+      ],
+      "template": "3d",
+      "date": "2026-03-10"
+    }
+  ]
 }
