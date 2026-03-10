@@ -10,7 +10,7 @@
       "type": "array",
       "items": {
         "type": "object",
-        "required": ["slug", "title", "description", "href", "template", "date"],
+        "required": ["slug", "title", "description", "href", "date"],
         "properties": {
           "slug": {
             "type": "string",
