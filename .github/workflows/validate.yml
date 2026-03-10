@@ -1,0 +1,26 @@
+name: Validate experiments.json
+
+on:
+  pull_request:
+    paths:
+      - experiments.json
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Validate against schema
+        uses: cardinalby/schema-validator-action@v3
+        with:
+          file: experiments.json
+          schema: schema.json
+
+      - name: Check for duplicate slugs
+        run: |
+          duplicates=$(jq -r '[.experiments[].slug] | group_by(.) | map(select(length > 1)) | flatten | unique | .[]' experiments.json)
+          if [ -n "$duplicates" ]; then
+            echo "::error::Duplicate slugs found: $duplicates"
+            exit 1
+          fi
