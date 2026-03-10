@@ -3,6 +3,7 @@
   "experiments": [
     {
       "title": "Dot Interactive",
+      "slug": "dot-interactive",
       "description": "Interactive background for Joyco Landing page.",
       "href": "https://laboratory-dot-interactive.vercel.app/",
       "tags": [
