@@ -1,0 +1,64 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "required": ["experiments"],
+  "properties": {
+    "$schema": {
+      "type": "string"
+    },
+    "experiments": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["slug", "title", "description", "href", "template", "date"],
+        "properties": {
+          "slug": {
+            "type": "string",
+            "pattern": "^[a-z0-9-]+$",
+            "description": "URL-friendly unique identifier"
+          },
+          "title": {
+            "type": "string",
+            "description": "Display name of the experiment"
+          },
+          "description": {
+            "type": "string",
+            "description": "Brief description of what the experiment explores"
+          },
+          "href": {
+            "type": "string",
+            "format": "uri",
+            "description": "Live deployment URL"
+          },
+          "repo": {
+            "type": "string",
+            "format": "uri",
+            "description": "Source repository URL"
+          },
+          "template": {
+            "type": "string",
+            "enum": ["3d", "motion"],
+            "description": "Template the experiment was scaffolded from"
+          },
+          "tags": {
+            "type": "array",
+            "items": { "type": "string" },
+            "description": "Freeform tags for filtering"
+          },
+          "previewImage": {
+            "type": "string",
+            "format": "uri",
+            "description": "URL to a preview/thumbnail image"
+          },
+          "date": {
+            "type": "string",
+            "format": "date",
+            "description": "Date the experiment was published (YYYY-MM-DD)"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}
