@@ -8,7 +8,7 @@ Each experiment lives in its own isolated repository and gets listed here via [`
 
 1. Scaffold a new experiment using the JOYCO CLI:
    ```sh
-   joyco lab init
+   joyco create
    ```
    This lets you pick a template (`3d` or `motion`), creates a new repo, and sets everything up.
 
@@ -16,7 +16,7 @@ Each experiment lives in its own isolated repository and gets listed here via [`
 
 3. Publish it to the registry:
    ```sh
-   joyco lab publish
+   joyco lab
    ```
    This opens a PR adding your experiment to `experiments.json`.
 
@@ -31,7 +31,7 @@ Each entry in `experiments.json` follows this shape:
 | `description`  | `string`   | yes      | What the experiment explores             |
 | `href`         | `string`   | yes      | Live deployment URL                      |
 | `repo`         | `string`   | no       | Source repository URL                    |
-| `template`     | `string`   | yes      | Template used (`3d` \| `motion`)         |
+| `template`     | `string`   | no      | Template used (`3d` \| `motion`)         |
 | `tags`         | `string[]` | no       | Freeform tags for filtering              |
 | `previewImage` | `string`   | no       | URL to a preview/thumbnail image         |
 | `date`         | `string`   | yes      | Publication date (`YYYY-MM-DD`)          |
