@@ -13,6 +13,18 @@
       ],
       "template": "3d",
       "date": "2026-03-10"
+    },
+    {
+      "slug": "interactive-dots",
+      "title": "interactive dots",
+      "description": "sarasa",
+      "href": "https://kahdri.com",
+      "repo": "https://kahdri.com",
+      "template": "motion",
+      "tags": [
+        "example"
+      ],
+      "date": "2026-03-11"
     }
   ]
 }
