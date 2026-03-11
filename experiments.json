@@ -32,6 +32,40 @@
         "webgl"
       ],
       "date": "2026-03-11"
+    },
+    {
+      "slug": "bichromatic-grain-post-pass",
+      "title": "Bichromatic grain post pass",
+      "description": "Two colors, one image, infinite texture. Drop any scene into a duotone post pass with tunable grain, contrast, and noise — the result lands somewhere between risograph print and silkscreen poster. Classical, gritty, and immediately striking.",
+      "href": "https://laboratory-bichromatic-grain.vercel.app/",
+      "repo": "https://github.com/joyco-studio/laboratory/tree/main/lab/gods-gods-gods#readme",
+      "template": "3d",
+      "tags": [
+        "post-processing",
+        "shader",
+        "glsl",
+        "duotone",
+        "grain",
+        "texture",
+        "risograph",
+        "webgl",
+        "creative tools"
+      ],
+      "date": "2026-03-11"
+    },
+    {
+      "slug": "joyco-miami",
+      "title": "Joyco Miami",
+      "description": "A sun-bleached Miami wall tagged with JOYCO graffiti, built in Three.js. Hover your mouse across the scene and the spray cans scattered on the street roll and nudge — lazy, physical, a little alive. Street art as interactive still life.",
+      "href": "https://miami.joyco.studio",
+      "repo": "https://github.com/joyco-studio/laboratory/tree/main/lab/miami#readme",
+      "template": "3d",
+      "tags": [
+        "@react-three/fiber",
+        "three.js",
+        "susano"
+      ],
+      "date": "2026-03-11"
     }
   ]
 }
