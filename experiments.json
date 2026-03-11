@@ -4,12 +4,10 @@
     {
       "title": "Dot Interactive",
       "slug": "dot-interactive",
-      "description": "Interactive background for Joyco Landing page.",
+      "description": "A dense halftone field that reacts to your cursor — dots swell and brighten wherever you hover, rippling outward like light catching a printed surface. Tune the grid rotation and cell count to find your pattern.",
       "href": "https://laboratory-dot-interactive.vercel.app/",
       "tags": [
-        "background",
-        "mesh",
-        "dot"
+        "webgl", "glsl", "shader", "interactive", "mouse", "halftone", "dots", "pattern", "post-processing"
       ],
       "template": "3d",
       "date": "2026-03-10"
