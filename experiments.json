@@ -13,6 +13,20 @@
       ],
       "template": "3d",
       "date": "2026-03-10"
+    },
+    {
+      "slug": "joyco-miami",
+      "title": "Joyco Miami",
+      "description": "A sun-bleached Miami wall tagged with JOYCO graffiti, built in Three.js. Hover your mouse across the scene and the spray cans scattered on the street roll and nudge — lazy, physical, a little alive. Street art as interactive still life.",
+      "href": "https://miami.joyco.studio",
+      "repo": "https://github.com/joyco-studio/laboratory/tree/main/lab/miami#readme",
+      "template": "3d",
+      "tags": [
+        "@react-three/fiber",
+        "three.js",
+        "susano"
+      ],
+      "date": "2026-03-11"
     }
   ]
 }
