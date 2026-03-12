@@ -24,7 +24,7 @@
     {
       "slug": "msdf-text-fluidsim",
       "title": "MSDF Text & Fluidsim",
-      "description": "Real-time fluid simulation drives multi-channel signed distance field text rendering — watch typography dissolve, reform, and ripple as turbulent velocity fields warp glyph edges with sub-pixel precision. A study in two technologies that shouldn't work together this well.",
+      "description": "A phrase rendered in MSDF text repeats across the screen, colored and offset based on mouse position, creating a fluid effect that shifts through different color tones against a black background.",
       "href": "https://laboratory-msdf.vercel.app/",
       "repo": "https://github.com/joyco-studio/laboratory/tree/main/lab/MSDF#readme",
       "template": "3d",
@@ -38,7 +38,7 @@
         "typography",
         "webgl"
       ],
-      "date": "2026-03-11"
+      "date": "2026-03-12"
     },
     {
       "slug": "bichromatic-grain-post-pass",
