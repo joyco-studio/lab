@@ -7,7 +7,15 @@
       "description": "A dense halftone field that reacts to your cursor — dots swell and brighten wherever you hover, rippling outward like light catching a printed surface. Tune the grid rotation and cell count to find your pattern.",
       "href": "https://laboratory-dot-interactive.vercel.app/",
       "tags": [
-        "webgl", "glsl", "shader", "interactive", "mouse", "halftone", "dots", "pattern", "post-processing"
+        "webgl",
+        "glsl",
+        "shader",
+        "interactive",
+        "mouse",
+        "halftone",
+        "dots",
+        "pattern",
+        "post-processing"
       ],
       "template": "3d",
       "date": "2026-03-10"
@@ -34,7 +42,7 @@
     {
       "slug": "bichromatic-grain-post-pass",
       "title": "Bichromatic grain post pass",
-      "description": "Two colors, one image, infinite texture. Drop any scene into a duotone post pass with tunable grain, contrast, and noise — the result lands somewhere between risograph print and silkscreen poster. Classical, gritty, and immediately striking.",
+      "description": "A scene rendered as a two-color duotone with layered grain. Controls let you adjust contrast, tint, background color, max brightness, and noise intensity.",
       "href": "https://laboratory-bichromatic-grain.vercel.app/",
       "repo": "https://github.com/joyco-studio/laboratory/tree/main/lab/gods-gods-gods#readme",
       "template": "3d",
@@ -49,7 +57,7 @@
         "webgl",
         "creative tools"
       ],
-      "date": "2026-03-11"
+      "date": "2026-03-12"
     },
     {
       "slug": "joyco-miami",
