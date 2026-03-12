@@ -23,7 +23,7 @@
     {
       "slug": "msdf-text-fluidsim",
       "title": "MSDF Text & Fluidsim",
-      "description": "A phrase rendered in MSDF text repeats across the screen, colored and offset based on mouse position, creating a diagonal cascade that shifts through warm tones against a black background.",
+      "description": "A phrase rendered in MSDF text repeats across the screen, colored and offset based on mouse position, creating a fluid effect that shifts through different color tones against a black background.",
       "href": "https://laboratory-msdf.vercel.app/",
       "repo": "https://github.com/joyco-studio/laboratory/tree/main/lab/MSDF#readme",
       "template": "3d",
