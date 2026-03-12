@@ -7,7 +7,15 @@
       "description": "A dense halftone field that reacts to your cursor — dots swell and brighten wherever you hover, rippling outward like light catching a printed surface. Tune the grid rotation and cell count to find your pattern.",
       "href": "https://laboratory-dot-interactive.vercel.app/",
       "tags": [
-        "webgl", "glsl", "shader", "interactive", "mouse", "halftone", "dots", "pattern", "post-processing"
+        "webgl",
+        "glsl",
+        "shader",
+        "interactive",
+        "mouse",
+        "halftone",
+        "dots",
+        "pattern",
+        "post-processing"
       ],
       "template": "3d",
       "date": "2026-03-10"
@@ -15,7 +23,7 @@
     {
       "slug": "msdf-text-fluidsim",
       "title": "MSDF Text & Fluidsim",
-      "description": "Real-time fluid simulation drives multi-channel signed distance field text rendering — watch typography dissolve, reform, and ripple as turbulent velocity fields warp glyph edges with sub-pixel precision. A study in two technologies that shouldn't work together this well.",
+      "description": "A phrase rendered in MSDF text repeats across the screen, colored and offset based on mouse position, creating a diagonal cascade that shifts through warm tones against a black background.",
       "href": "https://laboratory-msdf.vercel.app/",
       "repo": "https://github.com/joyco-studio/laboratory/tree/main/lab/MSDF#readme",
       "template": "3d",
@@ -29,7 +37,7 @@
         "typography",
         "webgl"
       ],
-      "date": "2026-03-11"
+      "date": "2026-03-12"
     },
     {
       "slug": "bichromatic-grain-post-pass",
