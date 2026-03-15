@@ -79,6 +79,7 @@
       "title": "Scene Scissor Clip",
       "description": "Controlled dual scene rendering with clipping capabilities",
       "href": "https://scene-scissor-clip-pi.vercel.app/",
+      "repo": "https://github.com/joyco-studio/scene-scissor-clip",
       "template": "3d",
       "tags": [
         "webgl"
