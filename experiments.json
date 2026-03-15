@@ -76,8 +76,8 @@
     },
     {
       "slug": "scene-scissor-clip",
-      "title": "scene-scissor-clip",
-      "description": "controlled dual scene rendering with clipping capabilities",
+      "title": "Scene Scissor Clip",
+      "description": "Controlled dual scene rendering with clipping capabilities",
       "href": "https://scene-scissor-clip-pi.vercel.app/",
       "template": "3d",
       "tags": [
