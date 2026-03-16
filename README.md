@@ -16,7 +16,7 @@ Each experiment lives in its own isolated repository and gets listed here via [`
 
 3. Publish it to the registry:
    ```sh
-   joyco lab
+   joyco lab create
    ```
    This opens a PR adding your experiment to `experiments.json`.
 
