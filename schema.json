@@ -45,10 +45,9 @@
             "items": { "type": "string" },
             "description": "Freeform tags for filtering"
           },
-          "previewImage": {
-            "type": "string",
-            "format": "uri",
-            "description": "URL to a preview/thumbnail image"
+          "hasControls": {
+            "type": "boolean",
+            "description": "Whether the experiment exposes interactive controls"
           },
           "date": {
             "type": "string",

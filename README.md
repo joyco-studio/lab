@@ -33,7 +33,7 @@ Each entry in `experiments.json` follows this shape:
 | `repo`         | `string`   | no       | Source repository URL                    |
 | `template`     | `string`   | no      | Template used (`3d` \| `motion`)         |
 | `tags`         | `string[]` | no       | Freeform tags for filtering              |
-| `previewImage` | `string`   | no       | URL to a preview/thumbnail image         |
+| `hasControls`  | `boolean`  | no       | Whether the experiment exposes controls   |
 | `date`         | `string`   | yes      | Publication date (`YYYY-MM-DD`)          |
 
 The full JSON Schema is in [`schema.json`](./schema.json).
