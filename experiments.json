@@ -19,6 +19,7 @@
         "pattern",
         "post-processing"
       ],
+      "hasControls": true,
       "date": "2026-03-12"
     },
     {
@@ -38,6 +39,7 @@
         "typography",
         "webgl"
       ],
+      "hasControls": false,
       "date": "2026-03-12"
     },
     {
@@ -58,6 +60,7 @@
         "webgl",
         "creative tools"
       ],
+      "hasControls": true,
       "date": "2026-03-12"
     },
     {
@@ -72,6 +75,7 @@
         "three.js",
         "susano"
       ],
+      "hasControls": false,
       "date": "2026-03-11"
     },
     {
@@ -84,6 +88,7 @@
       "tags": [
         "webgl"
       ],
+      "hasControls": true,
       "date": "2026-03-15"
     }
   ]
