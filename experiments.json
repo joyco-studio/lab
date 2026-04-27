@@ -90,6 +90,22 @@
       ],
       "hasControls": true,
       "date": "2026-03-15"
+    },
+    {
+      "slug": "sdf-svg-playground",
+      "title": "SDF SVG Playground",
+      "description": "Drop an SVG and tweak the shader",
+      "href": "https://logo-shader-experiment.vercel.app/",
+      "repo": "https://github.com/joyco-studio/logo-shader-experiment",
+      "template": "3d",
+      "tags": [
+        "3d",
+        "sdf",
+        "threejs",
+        "webgpu"
+      ],
+      "hasControls": false,
+      "date": "2026-04-27"
     }
   ]
 }
