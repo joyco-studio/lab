@@ -104,7 +104,7 @@
         "threejs",
         "webgpu"
       ],
-      "hasControls": false,
+      "hasControls": true,
       "date": "2026-04-27"
     }
   ]
