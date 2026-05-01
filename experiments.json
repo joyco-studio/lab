@@ -106,6 +106,25 @@
       ],
       "hasControls": true,
       "date": "2026-04-27"
+    },
+    {
+      "slug": "knight-grass",
+      "title": "Knight Grass",
+      "description": "Third-person paladin in a procedural grass field",
+      "href": "https://knight-grass.vercel.app/",
+      "repo": "https://github.com/alejopequeno/knight-grass",
+      "tags": [
+        "react-three-fiber",
+        "threejs",
+        "glsl",
+        "shaders",
+        "rapier",
+        "procedural",
+        "grass",
+        "third-person"
+      ],
+      "hasControls": true,
+      "date": "2026-05-01"
     }
   ]
 }
