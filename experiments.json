@@ -125,6 +125,20 @@
       ],
       "hasControls": false,
       "date": "2026-05-01"
+    },
+    {
+      "slug": "honeycomb-shield",
+      "title": "honeycomb-shield",
+      "description": "Honeycomb shield idle experiment",
+      "href": "https://honeycomb-shield.vercel.app/",
+      "template": "3d",
+      "tags": [
+        "threejs",
+        "honeycomb",
+        "sci-fi"
+      ],
+      "hasControls": true,
+      "date": "2026-08-10"
     }
   ]
 }
