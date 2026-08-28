@@ -125,6 +125,23 @@
       ],
       "hasControls": false,
       "date": "2026-05-01"
+    },
+    {
+      "slug": "spider-sense",
+      "title": "Spider Sense",
+      "description": "A pulsing Spider‑Verse style spider‑sense burst, built in three.js with TSL shaders.",
+      "href": "https://joyco-sense-tsl.vercel.app/",
+      "repo": "https://github.com/alejopequeno/joyco-sense-tsl",
+      "template": "3d",
+      "tags": [
+        "webgl",
+        "threejs",
+        "TSL",
+        "shader",
+        "post-processing"
+      ],
+      "hasControls": true,
+      "date": "2026-08-28"
     }
   ]
 }
