@@ -142,6 +142,21 @@
       ],
       "hasControls": true,
       "date": "2026-08-28"
+    },
+    {
+      "slug": "joyco-terminal",
+      "title": "Joyco Terminal",
+      "description": "Keyboard-only retro CRT terminal for JOYCO, rendered with lettra on WebGPU.",
+      "href": "https://terminal-one-kappa.vercel.app/",
+      "tags": [
+        "terminal",
+        "retro",
+        "tsl",
+        "webgpu",
+        "lettra"
+      ],
+      "hasControls": false,
+      "date": "2026-10-09"
     }
   ]
 }
