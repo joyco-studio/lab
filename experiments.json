@@ -147,7 +147,7 @@
       "slug": "joyco-terminal",
       "title": "Joyco Terminal",
       "description": "Keyboard-only retro CRT terminal for JOYCO, rendered with lettra on WebGPU.",
-      "href": "https://terminal-one-kappa.vercel.app/",
+      "href": "https://terminal.joyco.studio/",
       "tags": [
         "terminal",
         "retro",
