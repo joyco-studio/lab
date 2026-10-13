@@ -170,6 +170,24 @@
       ],
       "hasControls": false,
       "date": "2026-10-09"
+    },
+    {
+      "slug": "the-makers-map",
+      "title": "The Makers’ Map",
+      "description": "An enchanted atlas of the creative web. Folding parchment, organic ink reveals and wandering footprints bring a living castle to life with Three.js WebGPU, TSL and Lettra.",
+      "href": "https://tech-marauders.vercel.app/",
+      "repo": "https://github.com/joyco-studio/marauders-map",
+      "template": "3d",
+      "tags": [
+        "3d",
+        "three.js",
+        "webgpu",
+        "tsl",
+        "lettra",
+        "interaction"
+      ],
+      "hasControls": true,
+      "date": "2026-10-13"
     }
   ]
 }
