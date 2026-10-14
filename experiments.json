@@ -160,7 +160,7 @@
     },
     {
       "slug": "ai-typewriter",
-      "title": "ai-typewriter",
+      "title": "AI Typewriter",
       "description": "A 3D typewriter in the browser. Type on aged paper with real ink, no backspace, no undo. Built with lettra, three.js WebGPU and TSL.",
       "href": "https://typewriter-lettra.vercel.app/",
       "tags": [
