@@ -30,6 +30,11 @@
             "format": "uri",
             "description": "Live deployment URL"
           },
+          "thumbnail": {
+            "type": "string",
+            "format": "uri",
+            "description": "Preview image URL shown on the Hub; replaces the generated screenshot when set"
+          },
           "repo": {
             "type": "string",
             "format": "uri",

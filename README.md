@@ -30,6 +30,7 @@ Each entry in `experiments.json` follows this shape:
 | `title`        | `string`   | yes      | Display name                             |
 | `description`  | `string`   | yes      | What the experiment explores             |
 | `href`         | `string`   | yes      | Live deployment URL                      |
+| `thumbnail`    | `string`   | no       | Preview image URL shown on the Hub       |
 | `repo`         | `string`   | no       | Source repository URL                    |
 | `template`     | `string`   | no      | Template used (`3d` \| `motion`)         |
 | `tags`         | `string[]` | no       | Freeform tags for filtering              |
