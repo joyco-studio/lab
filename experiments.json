@@ -6,6 +6,7 @@
       "title": "Dot Interactive",
       "description": "A dense halftone field that reacts to your cursor — dots swell and brighten wherever you hover, rippling outward like light catching a printed surface. Tune the grid rotation and cell count to find your pattern.",
       "href": "https://laboratory-dot-interactive.vercel.app/",
+      "thumbnail": "https://r2.joyco.studio/hub/lab/dot-interactive.png",
       "repo": "https://github.com/joyco-studio/laboratory/tree/main/lab/dot-interactive#readme",
       "template": "3d",
       "tags": [
@@ -27,6 +28,7 @@
       "title": "MSDF Text & Fluidsim",
       "description": "A phrase rendered in MSDF text repeats across the screen, colored and offset based on mouse position, creating a fluid effect that shifts through different color tones against a black background.",
       "href": "https://laboratory-msdf.vercel.app/",
+      "thumbnail": "https://r2.joyco.studio/hub/lab/msdf-text-fluidsim.png",
       "repo": "https://github.com/joyco-studio/laboratory/tree/main/lab/MSDF#readme",
       "template": "3d",
       "tags": [
@@ -47,6 +49,7 @@
       "title": "Bichromatic grain post pass",
       "description": "A scene rendered as a two-color duotone with layered grain. Controls let you adjust contrast, tint, background color, max brightness, and noise intensity.",
       "href": "https://laboratory-bichromatic-grain.vercel.app/",
+      "thumbnail": "https://r2.joyco.studio/hub/lab/bichromatic-grain-post-pass.png",
       "repo": "https://github.com/joyco-studio/laboratory/tree/main/lab/gods-gods-gods#readme",
       "template": "3d",
       "tags": [
@@ -68,6 +71,7 @@
       "title": "Joyco Miami",
       "description": "A sun-bleached Miami wall tagged with JOYCO graffiti, built in Three.js. Hover your mouse across the scene and the spray cans scattered on the street roll and nudge — lazy, physical, a little alive. Street art as interactive still life.",
       "href": "https://miami.joyco.studio",
+      "thumbnail": "https://r2.joyco.studio/hub/lab/joyco-miami.png",
       "repo": "https://github.com/joyco-studio/laboratory/tree/main/lab/miami#readme",
       "template": "3d",
       "tags": [
@@ -83,6 +87,7 @@
       "title": "Scene Scissor Clip",
       "description": "Controlled dual scene rendering with clipping capabilities",
       "href": "https://scene-scissor-clip-pi.vercel.app/",
+      "thumbnail": "https://r2.joyco.studio/hub/lab/scene-scissor-clip.png",
       "repo": "https://github.com/joyco-studio/scene-scissor-clip",
       "template": "3d",
       "tags": [
@@ -96,6 +101,7 @@
       "title": "SDF SVG Playground",
       "description": "Drop an SVG and tweak the shader",
       "href": "https://logo-shader-experiment.vercel.app/",
+      "thumbnail": "https://r2.joyco.studio/hub/lab/sdf-svg-playground.png",
       "repo": "https://github.com/joyco-studio/logo-shader-experiment",
       "template": "3d",
       "tags": [
@@ -112,6 +118,7 @@
       "title": "Knight Grass",
       "description": "Third-person paladin in a procedural grass field",
       "href": "https://knight-grass.vercel.app/",
+      "thumbnail": "https://r2.joyco.studio/hub/lab/knight-grass.png",
       "repo": "https://github.com/alejopequeno/knight-grass",
       "tags": [
         "react-three-fiber",
@@ -131,6 +138,7 @@
       "title": "Spider Sense",
       "description": "A pulsing Spider‑Verse style spider‑sense burst, built in three.js with TSL shaders.",
       "href": "https://joyco-sense-tsl.vercel.app/",
+      "thumbnail": "https://r2.joyco.studio/hub/lab/spider-sense.png",
       "repo": "https://github.com/alejopequeno/joyco-sense-tsl",
       "template": "3d",
       "tags": [
@@ -148,6 +156,7 @@
       "title": "Joyco Terminal",
       "description": "Keyboard-only retro CRT terminal for JOYCO, rendered with lettra on WebGPU.",
       "href": "https://terminal.joyco.studio/",
+      "thumbnail": "https://r2.joyco.studio/hub/lab/joyco-terminal.png",
       "tags": [
         "terminal",
         "retro",
@@ -163,6 +172,7 @@
       "title": "AI Typewriter",
       "description": "A 3D typewriter in the browser. Type on aged paper with real ink, no backspace, no undo. Built with lettra, three.js WebGPU and TSL.",
       "href": "https://typewriter-lettra.vercel.app/",
+      "thumbnail": "https://r2.joyco.studio/hub/lab/ai-typewriter.png",
       "tags": [
         "webgpu",
         "tsl",
@@ -176,6 +186,7 @@
       "title": "The Makers’ Map",
       "description": "An enchanted atlas of the creative web. Folding parchment, organic ink reveals and wandering footprints bring a living castle to life with Three.js WebGPU, TSL and Lettra.",
       "href": "https://tech-marauders.vercel.app/",
+      "thumbnail": "https://r2.joyco.studio/hub/lab/the-makers-map.png",
       "repo": "https://github.com/joyco-studio/marauders-map",
       "template": "3d",
       "tags": [
