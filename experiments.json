@@ -13,7 +13,7 @@
         "webgl",
         "glsl",
         "shader",
-        "interactive",
+        "interaction",
         "mouse",
         "halftone",
         "dots",
@@ -32,13 +32,13 @@
       "repo": "https://github.com/joyco-studio/laboratory/tree/main/lab/MSDF#readme",
       "template": "3d",
       "tags": [
-        "three.js",
+        "threejs",
         "glsl",
         "shader",
-        "text",
-        "fluid simulation",
-        "msdf",
         "typography",
+        "fluid-simulation",
+        "mouse",
+        "msdf",
         "webgl"
       ],
       "hasControls": false,
@@ -58,10 +58,9 @@
         "glsl",
         "duotone",
         "grain",
-        "texture",
         "risograph",
         "webgl",
-        "creative tools"
+        "creative-tools"
       ],
       "hasControls": true,
       "date": "2026-03-12"
@@ -75,9 +74,10 @@
       "repo": "https://github.com/joyco-studio/laboratory/tree/main/lab/miami#readme",
       "template": "3d",
       "tags": [
-        "@react-three/fiber",
-        "three.js",
-        "susano"
+        "r3f",
+        "threejs",
+        "susano",
+        "mouse"
       ],
       "hasControls": false,
       "date": "2026-03-11"
@@ -121,10 +121,10 @@
       "thumbnail": "https://r2.joyco.studio/hub/lab/knight-grass.png",
       "repo": "https://github.com/alejopequeno/knight-grass",
       "tags": [
-        "react-three-fiber",
+        "r3f",
         "threejs",
         "glsl",
-        "shaders",
+        "shader",
         "rapier",
         "procedural",
         "grass",
@@ -144,7 +144,7 @@
       "tags": [
         "webgl",
         "threejs",
-        "TSL",
+        "tsl",
         "shader",
         "post-processing"
       ],
@@ -191,7 +191,7 @@
       "template": "3d",
       "tags": [
         "3d",
-        "three.js",
+        "threejs",
         "webgpu",
         "tsl",
         "lettra",

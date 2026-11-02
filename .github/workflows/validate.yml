@@ -4,6 +4,9 @@ on:
   pull_request:
     paths:
       - experiments.json
+      - schema.json
+      - scripts/check-tags.sh
+      - .github/workflows/validate.yml
 
 jobs:
   validate:
@@ -24,3 +27,6 @@ jobs:
             echo "::error::Duplicate slugs found: $duplicates"
             exit 1
           fi
+
+      - name: Check tag convention
+        run: ./scripts/check-tags.sh experiments.json
