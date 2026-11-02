@@ -1,0 +1,10 @@
+{
+  "customContext": {
+    "rules": [
+      {
+        "rule": "Experiment tags in experiments.json must follow the tag convention in README: lowercase kebab-case slugs ([a-z0-9]+(-[a-z0-9]+)*), no spaces, dots, @ or slashes. Before accepting a new tag, compare it to every tag already used in experiments.json and flag near-duplicates: case variants (TSL vs tsl), punctuation variants (three.js vs threejs, react-three-fiber vs @react-three/fiber), singular/plural (shader vs shaders), and synonyms (interaction vs interactive, text vs typography). Suggest the existing canonical tag instead. Never rename the `lettra` tag; external sites deep-link to it.",
+        "scope": ["experiments.json"]
+      }
+    ]
+  }
+}
